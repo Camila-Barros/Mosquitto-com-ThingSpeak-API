@@ -176,7 +176,7 @@ Projeto testando o consumo de dados de uma API pelo Mosquitto e enviado a plataf
 
 3. Execute o script:
   ```bash
-    python publish_to_mosquitto.py
+    python subscribe_and_send_to_thingspeak.py
   ```
 
 ## Verificar os Dados no ThingSpeak
